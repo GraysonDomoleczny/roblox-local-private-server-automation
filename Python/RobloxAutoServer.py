@@ -4,7 +4,7 @@ pyautogui.FAILSAFE = True
 import time
 
 def main():
-    #test
+    #test2
 
     def checkCursorPosition():
         time.sleep(2)
