@@ -1,5 +1,4 @@
 import pyautogui as pg
-from pyscreeze import ImageNotFoundException
 
 pg.PAUSE = 2
 pg.FAILSAFE = True
