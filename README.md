@@ -6,7 +6,6 @@ Features:
 - Simple setup with reference images provided.
 - Easy to modify or expand by updating images or adding new actions.
 
-Requirements & Limitations
 Due to the reliance on PyAutoGUI, the tool has several limitations:
 - Operating System: Windows 10 is recommended. Ensure Windows display scaling is set to 100%.
 - Browser: Designed for Google Chrome with zoom set to 100%. Any changes require updating the reference images accordingly.
